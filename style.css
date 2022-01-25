@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+#school{
+    width: 1050px;
+}
+#contacts{
+    background-color: white;
+}
+#a{
+    width:800px;
+}
+#campuslife{
+    background-color: white;
+}
+
+#contacts iframe{
+    widows: 200px;
+}
+/*
+.menu_bar{
+    position:sticky;
+    top: 0;
+    z-index: 999;
+}*/
+.movie_head{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.movie_head i{
+    float: right;
+}
+#maam{
+    height: 250px;
+    width: 250px;
+}
